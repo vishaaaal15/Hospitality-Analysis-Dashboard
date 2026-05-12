@@ -43,11 +43,13 @@ The primary objectives of this dashboard are to:
 
 # 🛠 Tech Stack
 
-| Tool     | Purpose                           |
-| -------- | --------------------------------- |
-| SQL      | Data Querying & KPI Analysis      |
-| Power BI | Interactive Dashboard Development |
-| Excel    | Data Cleaning & Validation        |
+| Tool     | Purpose                                                  |
+| -------- | -------------------------------------------------------- |
+| SQL      | Data Querying, KPI Analysis & Business Insights          |
+| Tableau  | Interactive Dashboard Development & Data Visualization   |
+| Power BI | Executive Dashboarding & Business Intelligence Reporting |
+| Excel    | Data Cleaning, Validation & Initial Analysis             |
+
 
 ---
 
@@ -131,6 +133,10 @@ The primary objectives of this dashboard are to:
 
 # 🖥 Dashboard Preview
 ![Excel_Dashboard](images/Excel_Dashboard_Screenshot.png)
+![Tableau_Dashboard](images/Tableau_Dashboard_Screenshot.png)
+[PowerBI_Dashboard](images/PowerBI_Dashboard_Screenshot.png)
+
+
 
 
 ---
