@@ -78,9 +78,9 @@ The objective of this project is to solve these challenges by building an execut
 
 Example:
 
-![PowerBI_Dashboard](PowerBI_Dashboard_Screenshot.png)
-![Tableau_Dashboard](Tableau_Dashboard_Screenshot.png)
-![Excel_Dashboard](Excel_Dashboard_Screenshot.png)
+![PowerBI_Dashboard](images/PowerBI_Dashboard_Screenshot.png)
+![Tableau_Dashboard](images/Tableau_Dashboard_Screenshot.png)
+![Excel_Dashboard](images/Excel_Dashboard_Screenshot.png)
 
 
 
