@@ -1,207 +1,181 @@
-# Hospitality Revenue & Customer Experience Analytics Dashboard
+# Hospitality Revenue & Occupancy Analysis Dashboard
 
-# 📌 Project Overview
+## Project Overview
 
-This project presents a comprehensive hospitality analytics dashboard designed to help hotel management teams monitor revenue performance, customer behavior, occupancy trends, and operational efficiency.
+This project focuses on analyzing hospitality business performance using Power BI to improve revenue management, occupancy optimization, and customer booking behavior. The dashboard helps hotel management teams make data-driven decisions by tracking key KPIs such as Revenue, Occupancy %, ADR, RevPAR, Cancellation Rate, and Booking Platform Performance.
 
-The dashboard transforms raw hospitality data into actionable business insights that support:
-
-* Revenue optimization
-* Occupancy management
-* Customer retention strategies
-* Operational decision-making
-* Executive reporting
+This project simulates a real-world hotel business intelligence use case where management needs to identify revenue leakages, optimize pricing strategies, and improve overall operational efficiency.
 
 ---
 
-# 🎯 Business Problem
+## Business Problem
 
-Hospitality businesses generate large volumes of booking and customer data but often struggle to:
+Hotel businesses face challenges in maximizing revenue while maintaining high occupancy and customer satisfaction. Poor pricing strategy, high cancellation rates, inefficient booking channels, and low-performing room categories directly impact profitability.
 
-* Track occupancy performance effectively
-* Identify revenue leakage
-* Analyze seasonal demand fluctuations
-* Monitor customer satisfaction trends
-* Improve booking conversion and retention
-
-This project addresses these challenges through interactive analytics and KPI-driven reporting.
+The objective of this project is to solve these challenges by building an executive dashboard that provides actionable insights for revenue optimization and strategic decision-making.
 
 ---
 
-# 🚀 Project Objectives
+## Objectives
 
-The primary objectives of this dashboard are to:
-
-✔ Monitor hotel revenue trends
-✔ Analyze occupancy and booking behavior
-✔ Track customer satisfaction KPIs
-✔ Identify seasonal demand patterns
-✔ Improve operational visibility
-✔ Support data-driven pricing strategies
-
----
-
-# 🛠 Tech Stack
-
-| Tool     | Purpose                                                  |
-| -------- | -------------------------------------------------------- |
-| SQL      | Data Querying, KPI Analysis & Business Insights          |
-| Tableau  | Interactive Dashboard Development & Data Visualization   |
-| Power BI | Executive Dashboarding & Business Intelligence Reporting |
-| Excel    | Data Cleaning, Validation & Initial Analysis             |
-
+* Analyze hotel revenue performance
+* Track occupancy trends across properties
+* Measure ADR (Average Daily Rate)
+* Evaluate RevPAR (Revenue Per Available Room)
+* Identify high cancellation channels
+* Compare booking platform performance
+* Improve pricing strategy based on customer behavior
+* Support executive-level decision making
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+## Tools Used
 
-| KPI                         | Description                     |
-| --------------------------- | ------------------------------- |
-| Total Revenue               | Overall revenue generated       |
-| Occupancy Rate              | Room occupancy performance      |
-| ADR                         | Average Daily Rate              |
-| RevPAR                      | Revenue Per Available Room      |
-| Cancellation Rate           | Booking cancellation percentage |
-| Customer Satisfaction Score | Guest experience performance    |
-| Repeat Customer %           | Loyalty & retention metric      |
-
----
-
-# 📈 Dashboard Features
-
-## 🏨 Revenue Analytics
-
-* Monthly revenue trends
-* Seasonal revenue comparison
-* Revenue by hotel category
-* Peak vs off-season analysis
+* Power BI
+* SQL
+* Excel
+* DAX
+* Data Cleaning
+* Data Modeling
+* Business Intelligence
+* Dashboard Design
 
 ---
 
-## 👥 Customer Insights
+## Key Performance Indicators (KPIs)
 
-* Guest demographics analysis
-* Repeat customer tracking
-* Booking behavior patterns
-* Customer satisfaction trends
+### Revenue Metrics
 
----
+* Total Revenue
+* Revenue by City
+* Revenue by Property
+* Revenue by Room Category
 
-## 📅 Booking & Occupancy Analysis
+### Occupancy Metrics
 
-* Occupancy performance tracking
-* Booking cancellation analysis
-* Room utilization insights
-* Booking channel comparison
+* Occupancy %
+* Occupancy Trend Analysis
+* Weekend vs Weekday Occupancy
 
----
+### Pricing Metrics
 
-## 🎛 Interactive Dashboard Filters
+* ADR (Average Daily Rate)
+* RevPAR (Revenue Per Available Room)
 
-* Hotel Branch
-* Room Category
-* Customer Type
-* Booking Channel
-* Season
-* Date Range
+### Booking Metrics
 
----
-
-# 🧠 Key Business Insights
-
-📌 Peak-season bookings generated significantly higher revenue than off-season periods.
-
-📌 Luxury room categories contributed the highest profit margins.
-
-📌 Online booking platforms drove the majority of high-value customers.
-
-📌 Cancellation rates increased substantially during holiday periods.
-
-📌 Repeat customers showed higher average spending behavior.
+* Booking Platform Performance
+* Cancellation %
+* Successful Booking Rate
+* Customer Booking Trends
 
 ---
 
-# 💡 Business Recommendations
+## Dashboard Preview
 
-✔ Optimize dynamic pricing during high-demand seasons
-✔ Strengthen loyalty programs for repeat guests
-✔ Improve cancellation management strategies
-✔ Increase focus on profitable booking channels
-✔ Enhance customer experience initiatives
+(Add your Power BI dashboard screenshot here)
 
----
+Example:
 
-# 🖥 Dashboard Preview
-![Excel_Dashboard](images/Excel_Dashboard_Screenshot.png)
-![Tableau_Dashboard](images/Tableau_Dashboard_Screenshot.png)
-![PowerBI_Dashboard](images/PowerBI_Dashboard_Screenshot.png)
+![Dashboard_Preview](PowerBI_Dashboard_Screenshot.png)
+![Dashboard_Preview](Tableau_Dashboard_Screenshot.png)
+![Excel_Dashboard_Preview](Excel_Dashboard_Screenshot.png)
 
 
 
 
 ---
 
-# 🔄 Project Workflow
+## Key Insights
 
-Raw Hospitality Dataset
-            ↓
-Data Cleaning & Validation
-            ↓
-SQL Querying & KPI Extraction
-            ↓
-Dashboard Development in Power BI
-            ↓
-Business Insights & Recommendations
-```
+### 1. Weekend Bookings Generate Higher Revenue
 
----
+Weekend occupancy and revenue were significantly higher compared to weekdays, indicating stronger customer demand during weekends.
 
-# 📂 Repository Structure
+### 2. Premium Rooms Deliver Higher ADR
 
-```text id="wujc0o"
-Hospitality-Revenue-Analytics-Dashboard/
-│
-├── data/
-├── dashboard/
-├── sql/
-├── images/
-├── README.md
-└── hospitality-dashboard.pbix
-```
+Luxury and premium room categories contributed the highest Average Daily Rate, making them critical for profit maximization.
+
+### 3. High Cancellation Rate in Specific Channels
+
+Certain booking platforms showed a higher cancellation percentage, impacting revenue forecasting and inventory planning.
+
+### 4. City-Wise Revenue Variation
+
+Some cities outperformed others in both occupancy and revenue generation, suggesting the need for location-based pricing strategies.
+
+### 5. RevPAR Improvement Opportunities
+
+Low RevPAR in selected properties highlighted underutilized inventory and pricing inefficiencies.
 
 ---
 
-# 🌟 Project Highlights
+## Business Recommendations
 
-✅ Executive-Level Dashboard
-✅ Real-World Hospitality Use Case
-✅ Interactive KPI Reporting
-✅ Revenue & Occupancy Analytics
-✅ Customer Experience Insights
-✅ Business Intelligence Storytelling
+### Revenue Optimization
 
----
+Implement dynamic pricing strategies during weekends and peak seasons to maximize revenue.
 
----
+### Booking Channel Management
 
-# 🏆 Project Value
+Reduce dependency on high-cancellation platforms and promote direct bookings for better profit margins.
 
-This project demonstrates:
+### Room Category Strategy
 
-* Business Intelligence skills
-* Dashboard storytelling
-* KPI reporting
-* Hospitality domain understanding
-* Data-driven decision-making
-* Executive reporting capabilities
+Focus marketing efforts on premium room categories to increase ADR and profitability.
+
+### City-Based Pricing Strategy
+
+Adopt location-specific pricing models based on demand patterns and customer behavior.
+
+### Operational Efficiency
+
+Improve inventory planning and cancellation forecasting to reduce revenue leakage.
 
 ---
 
-# 📬 Connect With Me
+## Business Impact
 
-## 👤 Vishal Singh
+This dashboard enables hospitality businesses to:
 
-* LinkedIn: [https://linkedin.com/in/vishal-singhdataanalyst](https://linkedin.com/in/vishal-singhdataanalyst)
-* GitHub: [https://github.com/vishaaaal15](https://github.com/vishaaaal15)
+* Increase revenue visibility
+* Improve occupancy management
+* Optimize pricing strategies
+* Reduce cancellations
+* Strengthen booking channel performance
+* Support strategic decision-making for leadership teams
+
+The project demonstrates practical business intelligence skills required in Data Analyst, Business Analyst, and Financial Analyst roles.
 
 ---
+
+## Why This Project Matters
+
+This is not just a dashboard project — it reflects real-world business problem solving using analytics.
+
+It showcases:
+
+* Strong analytical thinking
+* Executive dashboard reporting
+* Business recommendation skills
+* KPI-driven storytelling
+* Domain understanding in hospitality analytics
+
+This makes it highly valuable for recruiters hiring for:
+
+* Data Analyst
+* Business Analyst
+* BI Analyst
+* Financial Analyst
+* Consulting Roles
+* Big 4 Firms
+* Banking & Analytics Roles
+
+---
+
+## Author
+
+**Vishal Singh**
+Data Analyst | SQL | Power BI | Python | Excel | Business Intelligence
+
+GitHub: [https://github.com/vishaaaal15](https://github.com/vishaaaal15)
