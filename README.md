@@ -74,8 +74,6 @@ The objective of this project is to solve these challenges by building an execut
 
 ## Dashboard Preview
 
-(Add your Power BI dashboard screenshot here)
-
 Example:
 
 ![PowerBI_Dashboard](images/PowerBI_Dashboard_Screenshot.png)
