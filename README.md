@@ -34,6 +34,7 @@ The objective of this project is to solve these challenges by building an execut
 * Power BI
 * SQL
 * Excel
+* Tableau
 * DAX
 * Data Cleaning
 * Data Modeling
@@ -77,9 +78,9 @@ The objective of this project is to solve these challenges by building an execut
 
 Example:
 
-![Dashboard_Preview](PowerBI_Dashboard_Screenshot.png)
-![Dashboard_Preview](Tableau_Dashboard_Screenshot.png)
-![Excel_Dashboard_Preview](Excel_Dashboard_Screenshot.png)
+![PowerBI_Dashboard](PowerBI_Dashboard_Screenshot.png)
+![Tableau_Dashboard](Tableau_Dashboard_Screenshot.png)
+![Excel_Dashboard](Excel_Dashboard_Screenshot.png)
 
 
 
