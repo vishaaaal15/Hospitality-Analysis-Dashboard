@@ -294,7 +294,9 @@ This system demonstrates how hospitality analytics can:
 
 ## Hospitality Executive Dashboard
 
-> Add your dashboard screenshots here
+> ![Dashboard_Excel](images/Excel_Dashboard_Screenshot.png)
+> ![Dashboard_PowerBI](images/PowerBI_Dashboard_Screenshot.png)
+> ![Dashboard_Tableau](images/Tableau_Dashboard_Screenshot.png)
 
 ```markdown
 ![Dashboard Preview](Images/dashboard_preview.png)
